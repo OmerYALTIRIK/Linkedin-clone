@@ -1,6 +1,6 @@
 # LinkedIn Clone
- Hi everybody my name is Abdulaf from Turkey I'm not a native developer like a you.<br/>
- Altough I'm working at state hospital. So I'm an Anesthesia Technician and I love write code. <br/>
+ Hi everybody my name is Ömer from Turkey I'm not a native developer like a you.<br/>
+ Altough I'm working at state hospital. So I'm a Goverment Officer and I love write code. <br/>
  I want to learn different language.
 
  This project is my finish project about bootstrapt at the [Patika.dev](https://app.patika.dev/)
